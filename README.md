@@ -1,2 +1,3 @@
-# ArchiBERTo-dataset
-Training and validation dataset. ArchiBERTo, multi-label classifier in Design and Construction of school buildings. Progetto Iscol@
+# ArchiBERTo
+Training and validation dataset. ArchiBERTo, multi-label classifier in Design and Construction knowledge domain.
+Progetto Iscol@ school buildings
